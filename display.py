@@ -5,3 +5,4 @@ for i in list1:
 print(sum)
 print(sum//7)
 print("Hello World")
+print("Saroja")
