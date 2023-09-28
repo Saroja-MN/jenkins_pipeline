@@ -4,5 +4,4 @@ for i in list1:
   sum += i
 print(sum)
 print(sum//7)
-print("Hello World")
-print("Saroja")
+print("check integration with jenkins")
